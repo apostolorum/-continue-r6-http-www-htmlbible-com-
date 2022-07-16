@@ -1,0 +1,192 @@
+HTTrack3.49-2 launched on Sat, 16 Jul 2022 19:36:21 at http://www.htmlbible.com/
+(/usr/bin/httrack -iC1 -r6 http://www.htmlbible.com/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:38:47	Error: 	"Not Found" (404) at link www.htmlbible.com/cgi-bin/search/search.pl (from www.htmlbible.com/)
+23:08:23	Warning: 	Unexpected socket error during pre-loop
+23:08:26	Warning: 	Unexpected socket error during pre-loop
+23:36:04	Warning: 	Unexpected socket error during pre-loop
+23:36:07	Warning: 	Unexpected socket error during pre-loop
+01:53:48	Error: 	Exit requested by shell or user
+01:53:49	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/swedish/B18C019.htm
+01:53:49	Error: 	"Not Found" (404) at link www.htmlbible.com/search.txt (from www.htmlbible.com/)
+01:53:49	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/kjv30/B18C006.htm (from www.htmlbible.com/kjv30/index.htm)
+01:53:49	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/kjv30/B19C029.htm (from www.htmlbible.com/kjv30/index.htm)
+01:53:50	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/kjv30/B46C005.htm (from www.htmlbible.com/kjv30/index.htm)
+01:53:50	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/kjv30/henry/H19C102.htm (from www.htmlbible.com/kjv30/henry/index.htm)
+01:53:50	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/kjv30/henry/H20C023.htm (from www.htmlbible.com/kjv30/henry/index.htm)
+01:53:51	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/kjvstrongs/B19C138.htm (from www.htmlbible.com/sacrednamebiblecom/kjvstrongs/index.htm)
+01:53:51	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/kjvstrongs/B21C002.htm (from www.htmlbible.com/sacrednamebiblecom/kjvstrongs/index.htm)
+01:53:51	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/kjvstrongs/B21C005.htm (from www.htmlbible.com/sacrednamebiblecom/kjvstrongs/index.htm)
+01:53:52	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/kjvstrongs/hbeyth.gif (from www.htmlbible.com/sacrednamebiblecom/kjvstrongs/STRINDEX.htm)
+01:53:52	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/kjvstrongs/STRHEB25.htm (from www.htmlbible.com/sacrednamebiblecom/kjvstrongs/STRINDEX.htm)
+01:53:53	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/kjvstrongs/CONHEB369.htm (from www.htmlbible.com/sacrednamebiblecom/kjvstrongs/CONINDEX.htm)
+01:53:53	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/kjvstrongs/CONHEB482.htm (from www.htmlbible.com/sacrednamebiblecom/kjvstrongs/CONINDEX.htm)
+01:53:54	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/kjvstrongs/CONGRK298.htm (from www.htmlbible.com/sacrednamebiblecom/kjvstrongs/CONINDEX.htm)
+01:53:54	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/B01C037.htm (from www.htmlbible.com/sacrednamebiblecom/index.htm)
+01:53:54	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/B13C018.htm (from www.htmlbible.com/sacrednamebiblecom/index.htm)
+01:53:54	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/B40C004.htm (from www.htmlbible.com/sacrednamebiblecom/index.htm)
+01:53:55	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/albanian/B41C004.htm (from www.htmlbible.com/sacrednamebiblecom/albanian/index.htm)
+01:53:55	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/asv/B07C012.htm (from www.htmlbible.com/asv/index.htm)
+01:53:55	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/asv/B09C015.htm (from www.htmlbible.com/asv/index.htm)
+01:53:56	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/asv/B26C001.htm (from www.htmlbible.com/asv/index.htm)
+01:53:56	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/asv/B26C039.htm (from www.htmlbible.com/asv/index.htm)
+01:53:56	Error: 	"Not Found" (404) at link www.htmlbible.com/sacrednamebiblecom/cebuano/B02C008.htm (from www.htmlbible.com/sacrednamebiblecom/cebuano/index.htm)
+01:53:56	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/cebuano/B05C025.htm (from www.htmlbible.com/sacrednamebiblecom/cebuano/index.htm)
+01:53:56	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/cebuano/B24C019.htm (from www.htmlbible.com/sacrednamebiblecom/cebuano/index.htm)
+01:53:56	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/cebuano/B24C025.htm (from www.htmlbible.com/sacrednamebiblecom/cebuano/index.htm)
+01:53:56	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/cebuano/B26C006.htm (from www.htmlbible.com/sacrednamebiblecom/cebuano/index.htm)
+01:53:57	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/hungarian/B11C020.htm (from www.htmlbible.com/sacrednamebiblecom/hungarian/index.htm)
+01:53:57	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/hungarian/B43C011.htm (from www.htmlbible.com/sacrednamebiblecom/hungarian/index.htm)
+01:53:58	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/kjv20/B04C029.htm (from www.htmlbible.com/kjv20/index.htm)
+01:53:58	Warning: 	Retry after error -4 (Receive Error) at link www.htmlbible.com/kjv20/B04C030.htm (from www.htmlbible.com/kjv20/index.htm)
+01:53:58	Warning: 	Retry after error -4 (Receive Error) at link www.htmlbible.com/kjv20/B04C031.htm (from www.htmlbible.com/kjv20/index.htm)
+01:53:58	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/kjv20/B13C017.htm (from www.htmlbible.com/kjv20/index.htm)
+01:53:58	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/kjv20/B14C008.htm (from www.htmlbible.com/kjv20/index.htm)
+01:53:58	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/kjv20/B32C004.htm (from www.htmlbible.com/kjv20/index.htm)
+01:53:58	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/kjv20/B38C011.htm (from www.htmlbible.com/kjv20/index.htm)
+01:53:58	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/kjvlarge/B11C002.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:53:58	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/kjvlarge/B12C015.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:53:58	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/kjvlarge/B19C124.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:53:58	Warning: 	Retry after error -4 (Receive Error) at link www.htmlbible.com/kjvlarge/B19C125.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:53:58	Warning: 	Retry after error -4 (Receive Error) at link www.htmlbible.com/kjvlarge/B19C126.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:53:58	Warning: 	Retry after error -2 (Receive Time Out) at link www.htmlbible.com/kjvlarge/B23C040.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:53:59	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/kjvlarge/B42C013.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:53:59	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/kjvlarge/B43C008.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:53:59	Warning: 	Retry after error -2 (Receive Time Out) at link www.htmlbible.com/kjvlarge/B60C004.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:53:59	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/kjvapocrypha/B68C008.htm (from www.htmlbible.com/sacrednamebiblecom/kjvapocrypha/index.htm)
+01:53:59	Error: 	"Not Found" (404) at link www.htmlbible.com/sacrednamebiblecom/latvian/B41C001.htm (from www.htmlbible.com/sacrednamebiblecom/latvian/index.htm)
+01:54:01	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/moderngreek/B18C022.htm (from www.htmlbible.com/sacrednamebiblecom/moderngreek/index.htm)
+01:54:01	Warning: 	Retry after error -2 (Receive Time Out) at link www.htmlbible.com/sacrednamebiblecom/moderngreek/B24C015.htm (from www.htmlbible.com/sacrednamebiblecom/moderngreek/index.htm)
+01:54:01	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/moderngreek/B24C047.htm (from www.htmlbible.com/sacrednamebiblecom/moderngreek/index.htm)
+01:54:02	Error: 	"Not Found" (404) at link www.htmlbible.com/sacrednamebiblecom/moderngreek/B50C001.htm (from www.htmlbible.com/sacrednamebiblecom/moderngreek/index.htm)
+01:54:02	Error: 	"Not Found" (404) at link www.htmlbible.com/sacrednamebiblecom/moderngreek/B50C002.htm (from www.htmlbible.com/sacrednamebiblecom/moderngreek/index.htm)
+01:54:02	Error: 	"Not Found" (404) at link www.htmlbible.com/sacrednamebiblecom/moderngreek/B50C003.htm (from www.htmlbible.com/sacrednamebiblecom/moderngreek/index.htm)
+01:54:02	Error: 	"Not Found" (404) at link www.htmlbible.com/sacrednamebiblecom/moderngreek/B50C004.htm (from www.htmlbible.com/sacrednamebiblecom/moderngreek/index.htm)
+01:54:02	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/rumanian/B02C039.htm (from www.htmlbible.com/sacrednamebiblecom/rumanian/index.htm)
+01:54:04	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/rumanian/B23C016.htm (from www.htmlbible.com/sacrednamebiblecom/rumanian/index.htm)
+01:54:04	Error: 	"Not Found" (404) at link www.htmlbible.com/sacrednamebiblecom/rumanian/B60C002.htm (from www.htmlbible.com/sacrednamebiblecom/rumanian/index.htm)
+01:54:04	Error: 	"Not Found" (404) at link www.htmlbible.com/sacrednamebiblecom/rumanian/B60C003.htm (from www.htmlbible.com/sacrednamebiblecom/rumanian/index.htm)
+01:54:04	Error: 	"Not Found" (404) at link www.htmlbible.com/sacrednamebiblecom/rumanian/B60C004.htm (from www.htmlbible.com/sacrednamebiblecom/rumanian/index.htm)
+01:54:04	Error: 	"Not Found" (404) at link www.htmlbible.com/sacrednamebiblecom/rumanian/B60C005.htm (from www.htmlbible.com/sacrednamebiblecom/rumanian/index.htm)
+01:54:05	Error: 	"Not Found" (404) at link www.htmlbible.com/sacrednamebiblecom/swahili/B40C023.htm (from www.htmlbible.com/sacrednamebiblecom/swahili/index.htm)
+01:54:05	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/swahili/B43C005.htm (from www.htmlbible.com/sacrednamebiblecom/swahili/index.htm)
+01:54:05	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/swahili/B43C011.htm (from www.htmlbible.com/sacrednamebiblecom/swahili/index.htm)
+01:54:05	Error: 	"Not Found" (404) at link www.htmlbible.com/sacrednamebiblecom/swahili/B50C001.htm (from www.htmlbible.com/sacrednamebiblecom/swahili/index.htm)
+01:54:05	Error: 	"Not Found" (404) at link www.htmlbible.com/sacrednamebiblecom/swahili/B50C002.htm (from www.htmlbible.com/sacrednamebiblecom/swahili/index.htm)
+01:54:05	Error: 	"Not Found" (404) at link www.htmlbible.com/sacrednamebiblecom/swahili/B50C003.htm (from www.htmlbible.com/sacrednamebiblecom/swahili/index.htm)
+01:54:05	Error: 	"Not Found" (404) at link www.htmlbible.com/sacrednamebiblecom/swahili/B50C004.htm (from www.htmlbible.com/sacrednamebiblecom/swahili/index.htm)
+01:54:05	Warning: 	Retry after error -4 (No data (connection closed)) at link www.htmlbible.com/sacrednamebiblecom/swedish/B01C035.htm (from www.htmlbible.com/sacrednamebiblecom/swedish/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/swedish/B18C019.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/swedish/B18C019.htm (from www.htmlbible.com/sacrednamebiblecom/swedish/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjv30/B18C006.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjv30/B18C006.htm (from www.htmlbible.com/kjv30/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjv30/B19C029.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjv30/B19C029.htm (from www.htmlbible.com/kjv30/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjv30/B46C005.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjv30/B46C005.htm (from www.htmlbible.com/kjv30/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjv30/henry/H19C102.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjv30/henry/H19C102.htm (from www.htmlbible.com/kjv30/henry/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjv30/henry/H20C023.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjv30/henry/H20C023.htm (from www.htmlbible.com/kjv30/henry/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/kjvstrongs/B19C138.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/kjvstrongs/B19C138.htm (from www.htmlbible.com/sacrednamebiblecom/kjvstrongs/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/kjvstrongs/B21C002.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/kjvstrongs/B21C002.htm (from www.htmlbible.com/sacrednamebiblecom/kjvstrongs/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/kjvstrongs/B21C005.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/kjvstrongs/B21C005.htm (from www.htmlbible.com/sacrednamebiblecom/kjvstrongs/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/kjvstrongs/hbeyth.gif
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/kjvstrongs/hbeyth.gif (from www.htmlbible.com/sacrednamebiblecom/kjvstrongs/STRINDEX.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/kjvstrongs/STRHEB25.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/kjvstrongs/STRHEB25.htm (from www.htmlbible.com/sacrednamebiblecom/kjvstrongs/STRINDEX.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/kjvstrongs/CONHEB369.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/kjvstrongs/CONHEB369.htm (from www.htmlbible.com/sacrednamebiblecom/kjvstrongs/CONINDEX.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/kjvstrongs/CONHEB482.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/kjvstrongs/CONHEB482.htm (from www.htmlbible.com/sacrednamebiblecom/kjvstrongs/CONINDEX.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/kjvstrongs/CONGRK298.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/kjvstrongs/CONGRK298.htm (from www.htmlbible.com/sacrednamebiblecom/kjvstrongs/CONINDEX.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/B01C037.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/B01C037.htm (from www.htmlbible.com/sacrednamebiblecom/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/B13C018.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/B13C018.htm (from www.htmlbible.com/sacrednamebiblecom/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/B40C004.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/B40C004.htm (from www.htmlbible.com/sacrednamebiblecom/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/albanian/B41C004.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/albanian/B41C004.htm (from www.htmlbible.com/sacrednamebiblecom/albanian/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/asv/B07C012.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/asv/B07C012.htm (from www.htmlbible.com/asv/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/asv/B09C015.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/asv/B09C015.htm (from www.htmlbible.com/asv/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/asv/B26C001.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/asv/B26C001.htm (from www.htmlbible.com/asv/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/asv/B26C039.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/asv/B26C039.htm (from www.htmlbible.com/asv/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/cebuano/B05C025.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/cebuano/B05C025.htm (from www.htmlbible.com/sacrednamebiblecom/cebuano/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/cebuano/B24C019.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/cebuano/B24C019.htm (from www.htmlbible.com/sacrednamebiblecom/cebuano/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/cebuano/B24C025.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/cebuano/B24C025.htm (from www.htmlbible.com/sacrednamebiblecom/cebuano/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/cebuano/B26C006.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/cebuano/B26C006.htm (from www.htmlbible.com/sacrednamebiblecom/cebuano/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/hungarian/B11C020.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/hungarian/B11C020.htm (from www.htmlbible.com/sacrednamebiblecom/hungarian/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/hungarian/B43C011.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/hungarian/B43C011.htm (from www.htmlbible.com/sacrednamebiblecom/hungarian/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjv20/B04C029.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjv20/B04C029.htm (from www.htmlbible.com/kjv20/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjv20/B04C030.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjv20/B04C030.htm (from www.htmlbible.com/kjv20/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjv20/B04C031.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjv20/B04C031.htm (from www.htmlbible.com/kjv20/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjv20/B13C017.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjv20/B13C017.htm (from www.htmlbible.com/kjv20/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjv20/B14C008.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjv20/B14C008.htm (from www.htmlbible.com/kjv20/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjv20/B32C004.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjv20/B32C004.htm (from www.htmlbible.com/kjv20/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjv20/B38C011.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjv20/B38C011.htm (from www.htmlbible.com/kjv20/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjvlarge/B11C002.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjvlarge/B11C002.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjvlarge/B12C015.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjvlarge/B12C015.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjvlarge/B19C124.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjvlarge/B19C124.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjvlarge/B19C125.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjvlarge/B19C125.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjvlarge/B19C126.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjvlarge/B19C126.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjvlarge/B23C040.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjvlarge/B23C040.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjvlarge/B42C013.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjvlarge/B42C013.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjvlarge/B43C008.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjvlarge/B43C008.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/kjvlarge/B60C004.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/kjvlarge/B60C004.htm (from www.htmlbible.com/kjvlarge/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/kjvapocrypha/B68C008.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/kjvapocrypha/B68C008.htm (from www.htmlbible.com/sacrednamebiblecom/kjvapocrypha/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/moderngreek/B18C022.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/moderngreek/B18C022.htm (from www.htmlbible.com/sacrednamebiblecom/moderngreek/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/moderngreek/B24C015.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/moderngreek/B24C015.htm (from www.htmlbible.com/sacrednamebiblecom/moderngreek/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/moderngreek/B24C047.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/moderngreek/B24C047.htm (from www.htmlbible.com/sacrednamebiblecom/moderngreek/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/rumanian/B02C039.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/rumanian/B02C039.htm (from www.htmlbible.com/sacrednamebiblecom/rumanian/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/rumanian/B23C016.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/rumanian/B23C016.htm (from www.htmlbible.com/sacrednamebiblecom/rumanian/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/swahili/B43C005.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/swahili/B43C005.htm (from www.htmlbible.com/sacrednamebiblecom/swahili/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/swahili/B43C011.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/swahili/B43C011.htm (from www.htmlbible.com/sacrednamebiblecom/swahili/index.htm)
+01:54:06	Warning: 	File not added due to mirror cancel: www.htmlbible.com/sacrednamebiblecom/swedish/B01C035.htm
+01:54:06	Error: 	"mirror stopped by user" (-1) at link www.htmlbible.com/sacrednamebiblecom/swedish/B01C035.htm (from www.htmlbible.com/sacrednamebiblecom/swedish/index.htm)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 hours 17 minutes 45 seconds : 17466 links scanned, 17343 files written (212077382 bytes overall) [91921741 bytes received at 4055 bytes/sec], 186064238 bytes transferred using HTTP compression in 17221 files, ratio 32%, 54.0 requests per connection
+(71 errors, 110 warnings, 0 messages)
